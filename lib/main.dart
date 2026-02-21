@@ -61,7 +61,7 @@ class _WebPageState extends State<WebPage> {
           },
         ),
       )
-      ..loadRequest(Uri.parse('https://analysishms.com/'));
+      ..loadRequest(Uri.parse('https://analysishms.com/login'));
   }
 
   @override
